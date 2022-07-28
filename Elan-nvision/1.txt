@@ -1,0 +1,583 @@
+@media only screen and (max-width: 650px) and (min-width: 500px)
+{
+    #S1 h2{
+        font-size: 17px;
+    }
+
+    #S1{
+        display: flex;
+        text-align: center;
+        /* justify-content: center; */
+        /* font-family: 'Mochiy Pop One', sans-serif; */
+        /* font-family: 'Berkshire Swash', cursive; */
+        font-family: 'Rock Salt', cursive;
+        flex-direction: column;
+        height:110vh;
+        width: 100%;
+        /* border: 2px solid black; */
+    }
+    
+    #S1::before{
+        content: "";
+        position: absolute;
+        top: 0;
+        left: 0;
+        background: url("2.jpg");
+        width: 100%;
+        height: 110vh;
+        z-index: -1;
+        background-position: top 22% right 35%;
+        background-size: cover;
+        background-repeat: no-repeat;
+        /* opacity: 0.95; */
+    }
+
+    #N{
+        height: 90px;
+    }
+    .Hli a{
+        font-size: 17px;
+    }
+
+    #S2::before{
+        content: "";
+        position: absolute;
+        top: 110vh;
+        left: 0;
+        background: url("1.jpg");
+        width: 100%;
+        height: 205vh;
+        z-index: -1;
+        background-position: top 35% right 35%;
+        background-size: cover;
+        background-repeat: no-repeat;
+        /* opacity: 0.95; */
+    }
+    
+    #S2{
+        width: 100%;
+        height: 205vh;
+    }
+
+    #S3::before{
+        content: "";
+        position: absolute;
+        top: 305vh;
+        left: 0;
+        background: url("10.jpg");
+        width: 100%;
+        height: 337vh;
+        z-index: -1;
+        background-position: center;
+        background-size: cover;
+        background-repeat: no-repeat;
+        opacity: 0.95;
+    }
+    
+    #S3{
+        width: 100%;
+        height: 326vh;
+    }
+
+    #S4::before{
+        content: "";
+        position: absolute;
+        top: 642vh;
+        left: 0;
+        background: url("13.png");
+        width: 100%;
+        height: 130vh;
+        z-index: -1;
+        background-position: center;
+        opacity: 0.4;
+        background-size: cover;
+        background-repeat: no-repeat;
+    }
+    
+    #S4{
+        width: 100%;
+        height: 120vh;
+        display: flex;
+        flex-direction: column;
+        /* justify-content: center; */
+        align-items: center;
+    }
+
+    #S5::before{
+        content: "";
+        position: absolute;
+        top: 771vh;
+        left: 0;
+        background: url("15.jpg");
+        width: 100%;
+        height: 80vh;
+        z-index: -1;
+        background-position: center;
+        background-size: cover;
+        background-repeat: no-repeat;
+        /* background-size: cover; */
+        /* opacity: 0.4; */
+    }
+    
+    #S5{
+        display: flex;
+        align-items: center;
+        flex-direction: column;
+        justify-content: center;
+    }
+
+    #S3 h4{
+        padding-top: 20px;
+    }
+
+    #FD{
+        display: flex;
+        flex-direction: column;
+        flex-wrap: wrap;
+        justify-content: center;
+        align-items: center;
+        width: 450px;
+        text-align: center;
+        /* border: 2px solid black; */
+    }
+    
+} 
+
+
+@media only screen and (max-width: 650px) and (min-width: 500px)
+{
+    #S1 h2{
+        font-size: 17px;
+    }
+
+    #S1{
+        display: flex;
+        text-align: center;
+        /* justify-content: center; */
+        /* font-family: 'Mochiy Pop One', sans-serif; */
+        /* font-family: 'Berkshire Swash', cursive; */
+        font-family: 'Rock Salt', cursive;
+        flex-direction: column;
+        height:110vh;
+        width: 100%;
+        /* border: 2px solid black; */
+    }
+    
+    #S1::before{
+        content: "";
+        position: absolute;
+        top: 0;
+        left: 0;
+        background: url("2.jpg");
+        width: 100%;
+        height: 110vh;
+        z-index: -1;
+        background-position: top 22% right 35%;
+        background-size: cover;
+        background-repeat: no-repeat;
+        /* opacity: 0.95; */
+    }
+
+    #N{
+        height: 90px;
+    }
+    .Hli a{
+        font-size: 17px;
+    }
+
+    #S2::before{
+        content: "";
+        position: absolute;
+        top: 110vh;
+        left: 0;
+        background: url("1.jpg");
+        width: 100%;
+        height: 205vh;
+        z-index: -1;
+        background-position: top 35% right 35%;
+        background-size: cover;
+        background-repeat: no-repeat;
+        /* opacity: 0.95; */
+    }
+    
+    #S2{
+        width: 100%;
+        height: 205vh;
+    }
+
+    #S3::before{
+        content: "";
+        position: absolute;
+        top: 305vh;
+        left: 0;
+        background: url("10.jpg");
+        width: 100%;
+        height: 337vh;
+        z-index: -1;
+        background-position: center;
+        background-size: cover;
+        background-repeat: no-repeat;
+        opacity: 0.95;
+    }
+    
+    #S3{
+        width: 100%;
+        height: 326vh;
+    }
+
+    #S4::before{
+        content: "";
+        position: absolute;
+        top: 642vh;
+        left: 0;
+        background: url("13.png");
+        width: 100%;
+        height: 130vh;
+        z-index: -1;
+        background-position: center;
+        opacity: 0.4;
+        background-size: cover;
+        background-repeat: no-repeat;
+    }
+    
+    #S4{
+        width: 100%;
+        height: 120vh;
+        display: flex;
+        flex-direction: column;
+        /* justify-content: center; */
+        align-items: center;
+    }
+
+    #S5::before{
+        content: "";
+        position: absolute;
+        top: 771vh;
+        left: 0;
+        background: url("15.jpg");
+        width: 100%;
+        height: 80vh;
+        z-index: -1;
+        background-position: center;
+        background-size: cover;
+        background-repeat: no-repeat;
+        /* background-size: cover; */
+        /* opacity: 0.4; */
+    }
+    
+    #S5{
+        display: flex;
+        align-items: center;
+        flex-direction: column;
+        justify-content: center;
+    }
+
+    #S3 h4{
+        padding-top: 20px;
+    }
+
+    #FD{
+        display: flex;
+        flex-direction: column;
+        flex-wrap: wrap;
+        justify-content: center;
+        align-items: center;
+        width: 450px;
+        text-align: center;
+        /* border: 2px solid black; */
+    }
+    
+} 
+
+
+@media only screen and (max-width: 650px) and (min-width: 500px)
+{
+    #S1 h2{
+        font-size: 17px;
+    }
+
+    #S1{
+        display: flex;
+        text-align: center;
+        /* justify-content: center; */
+        /* font-family: 'Mochiy Pop One', sans-serif; */
+        /* font-family: 'Berkshire Swash', cursive; */
+        font-family: 'Rock Salt', cursive;
+        flex-direction: column;
+        height:110vh;
+        width: 100%;
+        /* border: 2px solid black; */
+    }
+    
+    #S1::before{
+        content: "";
+        position: absolute;
+        top: 0;
+        left: 0;
+        background: url("2.jpg");
+        width: 100%;
+        height: 110vh;
+        z-index: -1;
+        background-position: top 22% right 35%;
+        background-size: cover;
+        background-repeat: no-repeat;
+        /* opacity: 0.95; */
+    }
+
+    #N{
+        height: 90px;
+    }
+    .Hli a{
+        font-size: 17px;
+    }
+
+    #S2::before{
+        content: "";
+        position: absolute;
+        top: 110vh;
+        left: 0;
+        background: url("1.jpg");
+        width: 100%;
+        height: 205vh;
+        z-index: -1;
+        background-position: top 35% right 35%;
+        background-size: cover;
+        background-repeat: no-repeat;
+        /* opacity: 0.95; */
+    }
+    
+    #S2{
+        width: 100%;
+        height: 205vh;
+    }
+
+    #S3::before{
+        content: "";
+        position: absolute;
+        top: 305vh;
+        left: 0;
+        background: url("10.jpg");
+        width: 100%;
+        height: 337vh;
+        z-index: -1;
+        background-position: center;
+        background-size: cover;
+        background-repeat: no-repeat;
+        opacity: 0.95;
+    }
+    
+    #S3{
+        width: 100%;
+        height: 326vh;
+    }
+
+    #S4::before{
+        content: "";
+        position: absolute;
+        top: 642vh;
+        left: 0;
+        background: url("13.png");
+        width: 100%;
+        height: 130vh;
+        z-index: -1;
+        background-position: center;
+        opacity: 0.4;
+        background-size: cover;
+        background-repeat: no-repeat;
+    }
+    
+    #S4{
+        width: 100%;
+        height: 120vh;
+        display: flex;
+        flex-direction: column;
+        /* justify-content: center; */
+        align-items: center;
+    }
+
+    #S5::before{
+        content: "";
+        position: absolute;
+        top: 771vh;
+        left: 0;
+        background: url("15.jpg");
+        width: 100%;
+        height: 80vh;
+        z-index: -1;
+        background-position: center;
+        background-size: cover;
+        background-repeat: no-repeat;
+        /* background-size: cover; */
+        /* opacity: 0.4; */
+    }
+    
+    #S5{
+        display: flex;
+        align-items: center;
+        flex-direction: column;
+        justify-content: center;
+    }
+
+    #S3 h4{
+        padding-top: 20px;
+    }
+
+    #FD{
+        display: flex;
+        flex-direction: column;
+        flex-wrap: wrap;
+        justify-content: center;
+        align-items: center;
+        width: 450px;
+        text-align: center;
+        /* border: 2px solid black; */
+    }
+    
+} 
+
+
+@media only screen and (max-width: 650px) and (min-width: 500px)
+{
+    #S1 h2{
+        font-size: 17px;
+    }
+
+    #S1{
+        display: flex;
+        text-align: center;
+        /* justify-content: center; */
+        /* font-family: 'Mochiy Pop One', sans-serif; */
+        /* font-family: 'Berkshire Swash', cursive; */
+        font-family: 'Rock Salt', cursive;
+        flex-direction: column;
+        height:110vh;
+        width: 100%;
+        /* border: 2px solid black; */
+    }
+    
+    #S1::before{
+        content: "";
+        position: absolute;
+        top: 0;
+        left: 0;
+        background: url("2.jpg");
+        width: 100%;
+        height: 110vh;
+        z-index: -1;
+        background-position: top 22% right 35%;
+        background-size: cover;
+        background-repeat: no-repeat;
+        /* opacity: 0.95; */
+    }
+
+    #N{
+        height: 90px;
+    }
+    .Hli a{
+        font-size: 17px;
+    }
+
+    #S2::before{
+        content: "";
+        position: absolute;
+        top: 110vh;
+        left: 0;
+        background: url("1.jpg");
+        width: 100%;
+        height: 205vh;
+        z-index: -1;
+        background-position: top 35% right 35%;
+        background-size: cover;
+        background-repeat: no-repeat;
+        /* opacity: 0.95; */
+    }
+    
+    #S2{
+        width: 100%;
+        height: 205vh;
+    }
+
+    #S3::before{
+        content: "";
+        position: absolute;
+        top: 305vh;
+        left: 0;
+        background: url("10.jpg");
+        width: 100%;
+        height: 337vh;
+        z-index: -1;
+        background-position: center;
+        background-size: cover;
+        background-repeat: no-repeat;
+        opacity: 0.95;
+    }
+    
+    #S3{
+        width: 100%;
+        height: 326vh;
+    }
+
+    #S4::before{
+        content: "";
+        position: absolute;
+        top: 642vh;
+        left: 0;
+        background: url("13.png");
+        width: 100%;
+        height: 130vh;
+        z-index: -1;
+        background-position: center;
+        opacity: 0.4;
+        background-size: cover;
+        background-repeat: no-repeat;
+    }
+    
+    #S4{
+        width: 100%;
+        height: 120vh;
+        display: flex;
+        flex-direction: column;
+        /* justify-content: center; */
+        align-items: center;
+    }
+
+    #S5::before{
+        content: "";
+        position: absolute;
+        top: 771vh;
+        left: 0;
+        background: url("15.jpg");
+        width: 100%;
+        height: 80vh;
+        z-index: -1;
+        background-position: center;
+        background-size: cover;
+        background-repeat: no-repeat;
+        /* background-size: cover; */
+        /* opacity: 0.4; */
+    }
+    
+    #S5{
+        display: flex;
+        align-items: center;
+        flex-direction: column;
+        justify-content: center;
+    }
+
+    #S3 h4{
+        padding-top: 20px;
+    }
+
+    #FD{
+        display: flex;
+        flex-direction: column;
+        flex-wrap: wrap;
+        justify-content: center;
+        align-items: center;
+        width: 450px;
+        text-align: center;
+        /* border: 2px solid black; */
+    }
+    
+} 
+
